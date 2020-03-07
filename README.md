@@ -3,7 +3,7 @@
 **Chrome Extension - Snapshot current tabs.**
 
 
-[![3OIF4H.png](https://s2.ax1x.com/2020/03/07/3OIF4H.png)](https://imgchr.com/i/3OIF4H)
+![3OIF4H.png](https://s2.ax1x.com/2020/03/07/3OIF4H.png "3OIF4H.png")
 
 
 This is a Google Chrome browser extension application that records a snapshot of the tabs opened in the browser window, instantly saves your current state, and allows you to quickly return to the state when you next use Chrome.
@@ -26,5 +26,4 @@ Load the archived extension, select the source code folder and wait for the inst
 ## How to use
 Click the icon on the extension toolbar to open, enjoy it.
 
-![3Ojykt.png](https://s2.ax1x.com/2020/03/07/3Ojykt.png)
-
+![3Ojykt.png](https://s2.ax1x.com/2020/03/07/3Ojykt.png "3Ojykt.png")
